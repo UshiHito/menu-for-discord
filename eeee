@@ -1,0 +1,4 @@
+@echo
+goto 2
+admin servers
+@admin cmds .JS
